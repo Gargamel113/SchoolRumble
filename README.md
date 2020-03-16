@@ -9,6 +9,7 @@ The graphics right now is only templates and will be fix in the future.
 The actaul battle is working properly so you can fight and win/lose against the AI.
 
 AI
+
 The AI is very primitiv as of right now. it makes descinsions based on player card count to choose if it should attack
 summoner or cards.
 
